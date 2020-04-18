@@ -1,7 +1,10 @@
 Go To Directory After Your make
 Excute this Commands
+
 git init
 Make Your Files
+git remote add origin https://github.com/saleid/GitCommands.git
+
 git Add .
 git commit -m fileName.txt
 git push origin your-branch
